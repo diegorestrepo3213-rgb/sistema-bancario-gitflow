@@ -1,0 +1,3 @@
+ID Cuenta | ID Cliente | Tipo | Saldo
+1001 | 1 | Ahorros | 500000
+1002 | 2 | Corriente | 750000
