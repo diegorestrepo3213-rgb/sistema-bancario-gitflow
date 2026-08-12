@@ -1,0 +1,4 @@
+TIPO DE REPORTE | DESCRIPCION
+Clientes | Lista de clientes registrados
+Cuentas | Estado de las cuentas
+Transferencias | Historial de transferencias
