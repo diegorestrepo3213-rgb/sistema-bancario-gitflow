@@ -1,6 +1,6 @@
 # Sistema Bancario
 
-Sistema Bancario con gestión de clientes, cuentas y operaciones bancarias completas.
+Sistema Bancario con gestión de clientes, cuentas y operaciones bancarias.
 
 Autor: Jhojan Franco
 
